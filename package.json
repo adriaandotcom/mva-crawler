@@ -1,0 +1,19 @@
+{
+  "name": "mva-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mva-crawler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "dotenv": "^2.0.0",
+    "node-cron": "^1.1.2",
+    "node-telegram-bot-api": "^0.24.0",
+    "redis": "^2.6.3",
+    "request": "^2.78.0"
+  }
+}
